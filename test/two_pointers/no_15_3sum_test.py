@@ -1,4 +1,4 @@
-from src.two_pointers.no_15_3sum import Solution
+from src.interview_questions.two_pointers.no_15_3sum import Solution
 
 solution = Solution()
 

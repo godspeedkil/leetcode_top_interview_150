@@ -1,4 +1,4 @@
-from src.hash_map.no_290_word_pattern import Solution
+from src.interview_questions.hash_map.no_290_word_pattern import Solution
 
 solution = Solution()
 

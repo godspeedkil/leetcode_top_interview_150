@@ -1,4 +1,4 @@
-from src.array_string.no_274_h_index import Solution
+from src.interview_questions.array_string.no_274_h_index import Solution
 
 solution = Solution()
 

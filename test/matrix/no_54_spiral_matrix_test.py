@@ -1,4 +1,4 @@
-from src.matrix.no_54_spiral_matrix import Solution
+from src.interview_questions.matrix.no_54_spiral_matrix import Solution
 
 solution = Solution()
 

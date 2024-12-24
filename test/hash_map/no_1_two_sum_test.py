@@ -1,4 +1,4 @@
-from src.hash_map.no_1_two_sum import Solution
+from src.interview_questions.hash_map.no_1_two_sum import Solution
 
 solution = Solution()
 

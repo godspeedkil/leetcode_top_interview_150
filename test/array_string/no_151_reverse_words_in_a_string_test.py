@@ -1,4 +1,4 @@
-from src.array_string.no_151_reverse_words_in_a_string import Solution
+from src.interview_questions.array_string.no_151_reverse_words_in_a_string import Solution
 
 solution = Solution()
 

@@ -1,4 +1,4 @@
-from src.hash_map.no_242_valid_anagram import Solution
+from src.interview_questions.hash_map.no_242_valid_anagram import Solution
 
 solution = Solution()
 

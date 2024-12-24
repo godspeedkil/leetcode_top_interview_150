@@ -1,4 +1,4 @@
-from src.matrix.no_36_valid_sudoku import Solution
+from src.interview_questions.matrix.no_36_valid_sudoku import Solution
 
 solution = Solution()
 

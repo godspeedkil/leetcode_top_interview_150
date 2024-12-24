@@ -1,4 +1,4 @@
-from src.array_string.no_55_jump_game import Solution
+from src.interview_questions.array_string.no_55_jump_game import Solution
 
 solution = Solution()
 

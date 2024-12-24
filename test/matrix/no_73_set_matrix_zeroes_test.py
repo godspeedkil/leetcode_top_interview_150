@@ -1,4 +1,4 @@
-from src.matrix.no_73_set_matrix_zeroes import Solution
+from src.interview_questions.matrix.no_73_set_matrix_zeroes import Solution
 
 solution = Solution()
 

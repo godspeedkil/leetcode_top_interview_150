@@ -1,4 +1,4 @@
-from src.array_string.no_238_product_of_array_except_self import Solution
+from src.interview_questions.array_string.no_238_product_of_array_except_self import Solution
 
 solution = Solution()
 

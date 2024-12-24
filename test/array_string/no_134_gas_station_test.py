@@ -1,4 +1,4 @@
-from src.array_string.no_134_gas_station import Solution
+from src.interview_questions.array_string.no_134_gas_station import Solution
 
 solution = Solution()
 

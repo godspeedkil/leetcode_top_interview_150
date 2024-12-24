@@ -1,4 +1,4 @@
-from src.two_pointers.no_392_is_subsequence import Solution
+from src.interview_questions.two_pointers.no_392_is_subsequence import Solution
 
 solution = Solution()
 

@@ -1,4 +1,4 @@
-from src.hash_map.no_205_isomorphic_strings import Solution
+from src.interview_questions.hash_map.no_205_isomorphic_strings import Solution
 
 solution = Solution()
 

@@ -1,4 +1,4 @@
-from src.two_pointers.no_11_container_with_most_water import Solution
+from src.interview_questions.two_pointers.no_11_container_with_most_water import Solution
 
 solution = Solution()
 

@@ -1,4 +1,4 @@
-from src.array_string.no_380_insert_delete_getrandom_O1 import RandomizedSet
+from src.interview_questions.array_string.no_380_insert_delete_getrandom_O1 import RandomizedSet
 
 def test_normal_case():
     randomized_set = RandomizedSet()

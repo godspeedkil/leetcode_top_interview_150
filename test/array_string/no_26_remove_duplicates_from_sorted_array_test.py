@@ -1,4 +1,4 @@
-from src.array_string.no_26_remove_duplicates_from_sorted_array import Solution
+from src.interview_questions.array_string.no_26_remove_duplicates_from_sorted_array import Solution
 
 solution = Solution()
 

@@ -1,4 +1,4 @@
-from src.matrix.no_289_game_of_life import Solution
+from src.interview_questions.matrix.no_289_game_of_life import Solution
 
 solution = Solution()
 

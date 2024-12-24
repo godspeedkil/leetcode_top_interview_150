@@ -1,4 +1,4 @@
-from src.array_string.no_121_best_time_to_buy_and_sell_stock import Solution
+from src.interview_questions.array_string.no_121_best_time_to_buy_and_sell_stock import Solution
 
 solution = Solution()
 

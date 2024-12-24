@@ -1,4 +1,4 @@
-from src.two_pointers.no_167_two_sum_ii_input_array_is_sorted import Solution
+from src.interview_questions.two_pointers.no_167_two_sum_ii_input_array_is_sorted import Solution
 
 solution = Solution()
 

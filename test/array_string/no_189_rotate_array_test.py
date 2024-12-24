@@ -1,4 +1,4 @@
-from src.array_string.no_189_rotate_array import Solution
+from src.interview_questions.array_string.no_189_rotate_array import Solution
 
 solution = Solution()
 

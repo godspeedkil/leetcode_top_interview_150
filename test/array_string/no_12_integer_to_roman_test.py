@@ -1,4 +1,4 @@
-from src.array_string.no_12_integer_to_roman import Solution
+from src.interview_questions.array_string.no_12_integer_to_roman import Solution
 
 solution = Solution()
 

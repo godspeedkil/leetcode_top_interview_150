@@ -1,4 +1,4 @@
-from src.matrix.no_48_rotate_image import Solution
+from src.interview_questions.matrix.no_48_rotate_image import Solution
 
 solution = Solution()
 

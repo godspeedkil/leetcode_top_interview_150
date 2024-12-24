@@ -1,4 +1,4 @@
-from src.hash_map.no_219_contains_duplicate_ii import Solution
+from src.interview_questions.hash_map.no_219_contains_duplicate_ii import Solution
 
 solution = Solution()
 

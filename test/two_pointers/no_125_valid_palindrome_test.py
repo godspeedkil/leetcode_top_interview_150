@@ -1,4 +1,4 @@
-from src.two_pointers.no_125_valid_palindrome import Solution
+from src.interview_questions.two_pointers.no_125_valid_palindrome import Solution
 
 solution = Solution()
 

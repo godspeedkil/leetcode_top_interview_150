@@ -1,4 +1,4 @@
-from src.hash_map.no_202_happy_number import Solution
+from src.interview_questions.hash_map.no_202_happy_number import Solution
 
 solution = Solution()
 

@@ -1,4 +1,4 @@
-from src.array_string.no_14_longest_common_prefix import Solution
+from src.interview_questions.array_string.no_14_longest_common_prefix import Solution
 
 solution = Solution()
 

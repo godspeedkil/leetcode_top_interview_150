@@ -1,4 +1,4 @@
-from src.hash_map.no_383_ransom_note import Solution
+from src.interview_questions.hash_map.no_383_ransom_note import Solution
 
 solution = Solution()
 

@@ -1,4 +1,4 @@
-from src.array_string.no_58_length_of_last_word import Solution
+from src.interview_questions.array_string.no_58_length_of_last_word import Solution
 
 solution = Solution()
 

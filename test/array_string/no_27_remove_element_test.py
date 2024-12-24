@@ -1,4 +1,4 @@
-from src.array_string.no_27_remove_element import Solution
+from src.interview_questions.array_string.no_27_remove_element import Solution
 
 solution = Solution()
 
