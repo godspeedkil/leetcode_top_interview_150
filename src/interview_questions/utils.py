@@ -1,3 +1,5 @@
+from collections import Counter
+
 class ListNode:
     def __init__(self, x):
         self.val = x
@@ -24,3 +26,12 @@ def verify_binary_tree_inorder(root: TreeNode, expected: list) -> bool:
     if root and root.right:
         verify_binary_tree_inorder(root.right, expected)
     return True
+        
+def compare_lists_of_lists_unordered(list1: list[list], list2: list[list]) -> bool:
+    set1 = set()
+    for ls in list1:
+        set1.add(frozenset(ls))
+    set2 = set()
+    for ls in list2:
+        set2.add(frozenset(ls))
+    return set1 == set2

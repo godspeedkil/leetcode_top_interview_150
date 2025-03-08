@@ -37,4 +37,9 @@ def test_verify_binary_tree_inorder_case_5():
     node_3 = TreeNode(val=3)
     node_2 = TreeNode(val=2)
     node_1 = TreeNode(val=1, left=node_2, right=node_3)
-    assert verify_binary_tree_inorder(node_1, [2,1,3])
+    assert verify_binary_tree_inorder(node_1, [2,1,3])    
+
+def test_verify_compare_lists_of_lists_unordered():
+    list1 = [['tan', 'nat']]
+    list2 = [['nat', 'tan']]
+    assert compare_lists_of_lists_unordered(list1, list2)
